@@ -1,7 +1,7 @@
 import "regenerator-runtime/runtime";
 
 import React, { useContext, useEffect, useRef, useState } from "react";
-import "./main.css";
+import "./Main.css";
 import { assets } from "../../assets/assets/assets";
 import { Context } from "../../context/Context";
 import SpeechRecognition, {
